@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there ![image](https://github.com/user-attachments/assets/6a375357-1987-4ae3-a3be-ccb066bd577b)
+
 
 <!--
 **MaxTheRock/MaxTheRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
